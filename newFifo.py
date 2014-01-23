@@ -1,6 +1,6 @@
 from subprocess import *
 
-def newFifo(params=[]):
+def newFifo(params=[], options=[], entree=None, sortie=PIPE):
 	command = ["mkfifo"]
 	paramsBash = command+params
 	

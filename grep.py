@@ -1,10 +1,10 @@
 from subprocess import *
 import os
 
-def ls(params=[], options=[], entree="stdin", sortie="stdout"):
-	command = ["ls"]
+def grep(params=[], options=[], entree="stdin", sortie="stdout"):
+	command = ["grep"]
 	if not params:
-		params = [os.getcwd()]	
+		params = []	
 	paramsBash = command+options+params
 	p = Popen(paramsBash, stdout=sortie, stdin=entree)
 	p.wait()

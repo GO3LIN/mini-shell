@@ -1,0 +1,25 @@
+total 108
+-rw-rw-r-- 1 goblin goblin  324 Jan 22 21:58 couper.py
+-rw-rw-r-- 1 goblin goblin  386 Jan 22 20:56 delete.py
+drwxrwxr-x 2 goblin goblin 4096 Jan 23 01:24 do
+-rw-rw-r-- 1 goblin goblin  366 Jan 23 01:07 edit.py
+-rw-rw-r-- 1 goblin goblin  123 Jan 23 01:01 effacer.py
+prw-rw-r-- 1 goblin goblin    0 Jan 23 01:15 fifo1
+-rw-rw-r-- 1 goblin goblin  148 Jan 22 21:38 fileMessage.py
+-rwxrwxr-x 1 goblin goblin 8480 Jan 22 21:35 fm1
+-rw-rw-r-- 1 goblin goblin  196 Jan 21 00:05 go.py
+-rw-rw-r-- 1 goblin goblin  261 Jan 22 19:38 grep.py
+-rw-rw-r-- 1 goblin goblin  715 Jan 22 20:32 help.py
+-rw-rw-r-- 1 goblin goblin  396 Jan 23 01:02 imports.py
+-rw-rw-r-- 1 goblin goblin  268 Jan 22 19:37 lister.py
+-rw-rw-r-- 1 goblin goblin  337 Jan 14 23:32 lister.pyc
+-rw-rw-r-- 1 goblin goblin 1673 Jan 23 01:10 miniShell.py
+drwxrwxr-x 2 goblin goblin 4096 Jan 23 00:53 myDir
+-rw-rw-r-- 1 goblin goblin  291 Jan 22 20:56 newDir.py
+-rw-rw-r-- 1 goblin goblin  364 Jan 21 00:05 newFifo.py
+-rw-rw-r-- 1 goblin goblin  286 Jan 22 21:45 newFile.py
+-rw-rw-r-- 1 goblin goblin 1029 Jan 22 20:38 parser.py
+drwxr-xr-x 2 root   root   4096 Jan 15 02:36 __pycache__
+-rw-rw-r-- 1 goblin goblin  415 Jan 22 21:44 read.py
+-rw-rw-r-- 1 goblin goblin  150 Jan 22 21:00 semaphore.py
+-rwxrwxr-x 1 goblin goblin 8800 Dec 24 09:00 tubesem

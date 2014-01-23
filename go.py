@@ -1,6 +1,7 @@
+from subprocess import *
 import os
 
-def go(path):
+def go(path, options=[], entree=None, sortie=PIPE):
 	if os.path.isdir(path[0]):
 		os.chdir(path[0])
 	else:
